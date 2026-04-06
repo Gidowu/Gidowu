@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://peechz.com">peechz.com</a> &middot;
   <a href="https://linkedin.com/in/godwin-idowu-a798a1286">LinkedIn</a> &middot;
-  <a href="mailto:idowu1@kenyon.edu">idowu1@kenyon.edu</a>
+  <a href="mailto:idowug42@gmail.com">idowug42@gmail.com</a>
 </p>
 
 ---
