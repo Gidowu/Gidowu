@@ -1,95 +1,81 @@
-<h1 align="center">Hi, I'm Godwin Idowu 👋</h1>
+<h1 align="center">Godwin Idowu</h1>
 
 <p align="center">
-  <b>Software Engineer • AI/ML • Full-Stack Developer • Problem Solver</b>
+  <b>Software Engineer | AI/ML | Full-Stack Developer</b><br/>
+  Building products that connect people, power decisions, and solve real problems.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gidowu"><img src="https://img.shields.io/github/followers/Gidowu?label=Follow&style=social"></a>
-  <a href="https://github.com/Gidowu?tab=repositories"><img src="https://img.shields.io/badge/Projects-View-blue"></a>
-</p>
-
----
-
-## 🚀 About Me
-
-I'm **Godwin Idowu**, a passionate **software engineer**, **AI enthusiast**, and **full-stack developer** who loves building products that solve real problems.
-
-I enjoy:
-- Designing **scalable web platforms**
-- Developing **AI-powered tools**
-- Working with **React, Next.js, Node.js, and Python**
-- Building projects that blend **creativity + engineering**
-
-I’m constantly learning, shipping, and refining — always pushing toward better systems, cleaner code, and impactful products.
-
----
-
-## 🧠 Core Skills
-
-### **Languages**
-- JavaScript (ES6+), TypeScript  
-- Python  
-- C++, SQL  
-
-### **Frameworks & Tools**
-- React, Next.js, Vite  
-- Node.js, Express  
-- Supabase, Firebase  
-- FastAPI, Flask  
-- PostgreSQL  
-- Tailwind CSS  
-- Git, GitHub, Docker  
-
-### **AI / Data**
-- Machine Learning (scikit-learn, pandas, NumPy)  
-- Sentiment analysis & NLP  
-- RAG systems  
-- Data visualization (Tableau, Python)  
-
----
-
-## 🔧 What I Build
-
-- ⚡ **Full-stack applications** (React + Supabase / Express)  
-- 🤖 **AI-powered apps** for matching, analytics, and automation  
-- 📊 **Data science projects** that tell compelling stories  
-- 🎮 **Python command-line tools & interactive programs**  
-- 🧪 **Experiment-driven ML notebooks**  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gidowu&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gidowu&theme=tokyonight" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidowu&layout=compact&theme=tokyonight" width="48%">
+  <a href="https://peechz.com">peechz.com</a> &middot;
+  <a href="https://linkedin.com/in/godwin-idowu-a798a1286">LinkedIn</a> &middot;
+  <a href="mailto:idowu1@kenyon.edu">idowu1@kenyon.edu</a>
 </p>
 
 ---
 
-## 🧩 Current Focus
+### What I'm About
 
-- Building **AI-enhanced platforms** that combine real-time data + collaboration  
-- Strengthening backend systems & database architecture  
-- Studying advanced **machine learning and algorithms**  
-- Preparing for **software engineering internships**  
+I build full-stack platforms and AI-powered tools that people actually use. My work spans real-time web apps, intelligent matching systems, and data-driven products — always focused on shipping things that matter.
+
+Most recently, I co-founded **[Peechz](https://peechz.com)** — a platform that won **Most Impactful Project** at HackOH/IO 2025 (800+ participants).
 
 ---
 
-## 🌍 Let’s Connect
+### Featured Projects
 
-- **GitHub:** https://github.com/Gidowu  
-- **Email:** idowu1@kenyon.edu  
-- **LinkedIn:** https://www.linkedin.com/in/godwin-idowu-a798a1286/ 
+**[Peechz](https://peechz.com)** — *Pitch. Build. Match.*
+Co-founded a platform connecting builders, investors, and recruiters through 60-second project pitches. Real-time matching, scalable infrastructure, 100+ users. Built with Next.js, Supabase, and real-time websockets.
+
+**[Langar Expenses](https://github.com/Gidowu/Langar-Expenses)** — *AI-Powered Accounting Agent*
+Built an intelligent accounting system for Langar Holdings that automates expense tracking and financial workflows.
+
+**[AfriVarsity (GradeBridge)](https://github.com/Gidowu)** — *WASSCE to World-Class Universities*
+A Next.js platform helping West African students convert WASSCE grades into university matches and scholarship connections. Supabase backend, PDF processing, 750+ university database.
+
+**[UniMatch AI Advisor](https://github.com/Gidowu)** — *University Decision Intelligence*
+Decision-support tool for international students choosing between U.S. universities. AI-powered recommendations via weighted preference matching, chatbot advisor, and personalized ranking. React, Supabase, OpenAI.
+
+**[Job Automation Suite](https://github.com/Gidowu)** — *Smart Job Search Pipeline*
+Python system that scrapes listings from LinkedIn, HN, Lever, and Greenhouse, then auto-tailors resumes to each posting.
+
+---
+
+### Tech Stack
+
+```
+Languages        JavaScript/TypeScript, Python, C++, SQL
+Frontend         React, Next.js, Vite, Tailwind CSS, Material UI
+Backend          Node.js, Express, FastAPI, Flask
+Data & AI        scikit-learn, pandas, NumPy, OpenAI, NLP, RAG systems
+Infrastructure   Supabase, Firebase, PostgreSQL, Prisma, Docker, Git
+```
+
+---
+
+### Highlights
+
+- **HackOH/IO 2025** — Most Impactful Project (Peechz, 800+ participants)
+- Co-founded a live platform at [peechz.com](https://peechz.com) serving 100+ users
+- Built AI agents for real-world business accounting (Langar Holdings)
+- Created tools used by international and West African students for university decisions
+- Research in AI chatbot benchmarking and proof error taxonomy
+
+---
+
+### Current Focus
+
+- Scaling Peechz and building out the matching algorithm
+- Strengthening distributed systems and backend architecture
+- Advanced ML research and applied AI products
+- Seeking **software engineering internships** for Summer 2026
 
 ---
 
 <p align="center">
-  <b>“Build, iterate, improve — progress over perfection.”</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gidowu&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gidowu&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
+---
+
+<p align="center"><i>"Build, iterate, improve — progress over perfection."</i></p>
