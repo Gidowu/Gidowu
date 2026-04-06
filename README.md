@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 <a href="https://peechz.com"><img src="https://img.shields.io/badge/Peechz.com-Visit%20Live%20Site-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Peechz"/></a>
 <a href="https://linkedin.com/in/godwin-idowu-a798a1286"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:idowu1@kenyon.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-bb9af7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:idowug42@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-bb9af7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Gidowu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-All%20Repos-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
 
 </div>
