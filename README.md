@@ -10,6 +10,11 @@
 
 <br/>
 
+<!-- Status / Availability Badge -->
+<img src="https://img.shields.io/badge/Status-Open%20to%20Summer%202026%20SWE%20Internships-9ece6a?style=for-the-badge" alt="Open to internships"/>
+
+<br/><br/>
+
 <!-- Social Badges -->
 <a href="https://peechz.com"><img src="https://img.shields.io/badge/Peechz.com-Visit%20Live%20Site-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Peechz"/></a>
 <a href="https://linkedin.com/in/godwin-idowu-a798a1286"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -26,6 +31,8 @@
 I build full-stack platforms and AI-powered tools that people actually use. My work spans real-time web apps, intelligent matching systems, and data-driven products — always focused on shipping things that matter.
 
 Most recently, I co-founded **[Peechz](https://peechz.com)** — a platform that won **Most Impactful Project** at HackOH/IO 2025 out of 800+ participants.
+
+**I'm currently seeking Software Engineering internships for Summer 2026**, with a focus on full-stack development and applied AI/ML. I'm most interested in roles where I can build products end-to-end — from backend architecture to the interfaces people actually touch.
 
 <br/>
 
@@ -180,7 +187,6 @@ Decision-support tool for international students choosing between U.S. universit
 
 <a href="https://github.com/Gidowu/Langar-Expenses"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gidowu&repo=Langar-Expenses&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" width="48%" /></a>
 <a href="https://github.com/Gidowu/IPHS_200_ghana_geo_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gidowu&repo=IPHS_200_ghana_geo_project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" width="48%" /></a>
-
 <a href="https://github.com/Gidowu/AI-customer-support"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gidowu&repo=AI-customer-support&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" width="48%" /></a>
 <a href="https://github.com/Gidowu/Sudoku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gidowu&repo=Sudoku&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" width="48%" /></a>
 
