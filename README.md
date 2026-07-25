@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Status / Availability Badge -->
-<img src="https://img.shields.io/badge/Status-Open%20to%20Summer%202026%20SWE%20Internships-9ece6a?style=for-the-badge" alt="Open to internships"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Full--Time%20SWE%20Roles-9ece6a?style=for-the-badge" alt="Open to full-time roles"/>
 
 <br/><br/>
 
@@ -32,7 +32,7 @@ I build full-stack platforms and AI-powered tools that people actually use. My w
 
 Most recently, I co-founded **[Peechz](https://peechz.com)** — a platform that won **Most Impactful Project** at HackOH/IO 2025 out of 800+ participants.
 
-**I'm currently seeking Software Engineering internships for Summer 2026**, with a focus on full-stack development and applied AI/ML. I'm most interested in roles where I can build products end-to-end — from backend architecture to the interfaces people actually touch.
+**I'm currently seeking full-time Software Engineering roles**, with a focus on full-stack development and applied AI/ML. I'm most interested in roles where I can build products end-to-end — from backend architecture to the interfaces people actually touch.
 
 <br/>
 
@@ -200,7 +200,7 @@ Decision-support tool for international students choosing between U.S. universit
 - Scaling **Peechz** and building out the matching algorithm
 - Strengthening distributed systems and backend architecture
 - Advanced ML research and applied AI products
-- Seeking **software engineering internships** for Summer 2026
+- Seeking **full-time software engineering roles**
 
 <br/>
 
